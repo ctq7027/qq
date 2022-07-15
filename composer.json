@@ -1,0 +1,27 @@
+{
+    "name": "ctq7027/qq",
+    "type": "library",
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Qq\\": "src/"
+        }
+    },
+"autoload-dev":{
+        "psr-4":{
+            "Qq\\":"src/"
+            }
+        },
+    "authors": [
+        {
+            "name": "21530100052",
+            "email": "156041831@qq.com",
+ "homepage":"https://github.com/qq"
+        }
+    ],
+"license": "MIT",
+ "homepage":"https://github.com/qq",
+    "minimum-stability": "dev"
+}
